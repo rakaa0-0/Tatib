@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function Component() {
+export default function PeranD() {
   return (
     <div className="min-h-screen bg-white flex flex-col items-center p-4">
       <header className="w-full mb-6">
